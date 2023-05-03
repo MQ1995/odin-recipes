@@ -1,0 +1,22 @@
+h1{
+    background-color: red;
+    font-family: Garamond, serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+ul {
+    background-color: peru;
+    color: white;
+}
+
+a {
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.main-pic {
+    width: 300px;
+    height: auto;
+}
